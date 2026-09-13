@@ -1,4 +1,17 @@
 {
  "version": 1,
- "items": {}
+ "items": {
+  "mu01ai5sunb7vy": {
+   "id": "mu01ai5sunb7vy",
+   "section": "report",
+   "title": "",
+   "kind": "Consulenza",
+   "date": "2026-09-13",
+   "who": "",
+   "tags": [],
+   "body": "## Obiettivo\n\n\n## Contesto\n\n\n## Analisi\n\n\n## Conclusioni\n\n\n## Prossimi passi\n\n",
+   "createdAt": 1789317249904,
+   "updatedAt": 1789317249904
+  }
+ }
 }
