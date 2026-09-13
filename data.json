@@ -17,14 +17,15 @@
   "mu01j9tmueeh5i": {
    "id": "mu01j9tmueeh5i",
    "section": "idea",
-   "title": "cjkasdgsdg",
+   "title": "",
    "kind": "Idea",
    "date": "2026-09-13",
    "who": "",
    "tags": [],
-   "body": "## Problema\n\n\n## Soluzione\n\n\n## Clienti target\n\n\n## Modello di ricavo\n\n\n## Concorrenti\n\n\n## Prossimi passi\n\n",
+   "body": "",
    "createdAt": 1789317659002,
-   "updatedAt": 1789317708870
+   "updatedAt": 1789317745576,
+   "deleted": true
   }
  }
 }
